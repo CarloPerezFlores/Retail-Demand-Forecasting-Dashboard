@@ -61,3 +61,15 @@ The promotional analysis identifies trends for further investigation; it does no
 ## Project Status
 
 The analytical notebook, model evaluation, and Power BI dashboard have been developed. Repository documentation and publication are in progress.
+---
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](5.%20Images/Executive_Overview.png)
+
+### Demand Forecast — XGBoost
+![Demand Forecast](5.%20Images/Demand%20Forecast.png)
+
+### Commercial Planning
+![Commercial Planning](5.%20Images/Commercial%20Planning.png)
