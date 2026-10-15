@@ -1,4 +1,4 @@
-# Retail Demand Forecasting & Commercial Analytics
+# Retail Demand Forecasting — forecasting future demand and sales.
 
 ## Project Overview
 
